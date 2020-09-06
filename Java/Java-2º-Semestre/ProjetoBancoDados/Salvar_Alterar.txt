@@ -1,0 +1,79 @@
+ private void btnSalvarActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        // TODO add your handling code here:
+          //salvando um novo registro  
+       if (btnSalvar.getText().equals("Salvar")) {
+           
+          if(ES.tahPreenchido(txtNome,this) && ES.tahPreenchido(txtPlaca,this)){
+           Carro c = new Carro();
+           c.setNome(txtNome.getText());
+           c.setPlaca(txtPlaca.getText());
+           c.setCor(""+cbxCor.getSelectedItem());
+           
+           if(rdbGasolina.isSelected())
+            c.setCombustivel("Gasolina");
+           else if (rdbAlcool.isSelected())
+            c.setCombustivel("Alcool");
+           else if (rdbDiesel.isSelected())
+            c.setCombustivel("Diesel");
+           else 
+            c.setCombustivel("Flex");
+           
+          /*insercao no banco de dados */
+
+            ConnCarro objCarro= new ConnCarro();
+            try{
+                objCarro.inserir(c);
+                ES.mostrarMensagem("Registro "
+                    + "cadastrado com sucesso!",this );
+            }
+
+            catch (SQLException ex) {
+                System.out.println("Ocorreu um erro: " + ex);
+                ES.mostrarMensagem(""+ex, this);
+            }
+          //----------------------------------------    
+           limparCampos(); 
+           montarTabela();
+         //----------------------------------------       
+        }
+                   
+     }//fim do salvar novoCarro
+      
+       //salvando as alteracoes
+       else if(btnSalvar.getText().equals("Salvar Edição") && (!lblId.getText().equals(""))){
+             Carro c = new Carro();
+           c.setNome(txtNome.getText());
+           c.setPlaca(txtPlaca.getText());
+           c.setCor(""+cbxCor.getSelectedItem());
+           c.setIdCarro(Integer.parseInt(lblId.getText()));
+           
+           if(rdbGasolina.isSelected())
+            c.setCombustivel("Gasolina");
+           else if (rdbAlcool.isSelected())
+            c.setCombustivel("Alcool");
+           else if (rdbDiesel.isSelected())
+            c.setCombustivel("Diesel");
+           else 
+            c.setCombustivel("Flex");
+         
+         
+            ConnCarro objCarro= new ConnCarro();
+            try{
+                objCarro.alterar(c);
+                ES.mostrarMensagem("Registro "
+                    + "atualizado com sucesso!",this );
+            }
+
+            catch (SQLException ex) {
+                System.out.println("Ocorreu um erro: " + ex);
+                ES.mostrarMensagem(""+ex, this);
+            }
+               
+          montarTabela(); 
+          //btnSalvar.setText("Salvar");
+          limparCampos();
+          
+       }//fim do SalvarEdicao
+       else 
+           ES.mostrarMensagem("selecione um registro", this);
+    }   

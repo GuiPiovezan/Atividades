@@ -1,0 +1,20 @@
+D:\006 - ETEC - documentos\2019\DS - 3º INFO - 1sem2019\ProjetoConexao\ProjetoConexao\bin\Debug\ProjetoConexao.exe.config
+D:\006 - ETEC - documentos\2019\DS - 3º INFO - 1sem2019\ProjetoConexao\ProjetoConexao\bin\Debug\ProjetoConexao.exe
+D:\006 - ETEC - documentos\2019\DS - 3º INFO - 1sem2019\ProjetoConexao\ProjetoConexao\bin\Debug\ProjetoConexao.pdb
+D:\006 - ETEC - documentos\2019\DS - 3º INFO - 1sem2019\ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.csprojResolveAssemblyReference.cache
+D:\006 - ETEC - documentos\2019\DS - 3º INFO - 1sem2019\ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.Form1.resources
+D:\006 - ETEC - documentos\2019\DS - 3º INFO - 1sem2019\ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.Properties.Resources.resources
+D:\006 - ETEC - documentos\2019\DS - 3º INFO - 1sem2019\ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.csproj.GenerateResource.cache
+D:\006 - ETEC - documentos\2019\DS - 3º INFO - 1sem2019\ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.csproj.CoreCompileInputs.cache
+D:\006 - ETEC - documentos\2019\DS - 3º INFO - 1sem2019\ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.exe
+D:\006 - ETEC - documentos\2019\DS - 3º INFO - 1sem2019\ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.pdb
+D:\006 - ETEC - documentos\2019\DS - 3º INFO - 1sem2019\Projeto a ser desenvolvido na aula\ProjetoConexao\ProjetoConexao\bin\Debug\ProjetoConexao.exe.config
+D:\006 - ETEC - documentos\2019\DS - 3º INFO - 1sem2019\Projeto a ser desenvolvido na aula\ProjetoConexao\ProjetoConexao\bin\Debug\ProjetoConexao.exe
+D:\006 - ETEC - documentos\2019\DS - 3º INFO - 1sem2019\Projeto a ser desenvolvido na aula\ProjetoConexao\ProjetoConexao\bin\Debug\ProjetoConexao.pdb
+D:\006 - ETEC - documentos\2019\DS - 3º INFO - 1sem2019\Projeto a ser desenvolvido na aula\ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.csprojResolveAssemblyReference.cache
+D:\006 - ETEC - documentos\2019\DS - 3º INFO - 1sem2019\Projeto a ser desenvolvido na aula\ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.Form1.resources
+D:\006 - ETEC - documentos\2019\DS - 3º INFO - 1sem2019\Projeto a ser desenvolvido na aula\ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.Properties.Resources.resources
+D:\006 - ETEC - documentos\2019\DS - 3º INFO - 1sem2019\Projeto a ser desenvolvido na aula\ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.csproj.GenerateResource.cache
+D:\006 - ETEC - documentos\2019\DS - 3º INFO - 1sem2019\Projeto a ser desenvolvido na aula\ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.csproj.CoreCompileInputs.cache
+D:\006 - ETEC - documentos\2019\DS - 3º INFO - 1sem2019\Projeto a ser desenvolvido na aula\ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.exe
+D:\006 - ETEC - documentos\2019\DS - 3º INFO - 1sem2019\Projeto a ser desenvolvido na aula\ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.pdb

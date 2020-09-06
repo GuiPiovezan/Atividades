@@ -1,0 +1,9 @@
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Palavras\Palavras\bin\Debug\Palavras.exe.config
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Palavras\Palavras\bin\Debug\Palavras.exe
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Palavras\Palavras\bin\Debug\Palavras.pdb
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Palavras\Palavras\obj\Debug\Palavras.csprojResolveAssemblyReference.cache
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Palavras\Palavras\obj\Debug\Palavras.frm_palavras.resources
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Palavras\Palavras\obj\Debug\Palavras.Properties.Resources.resources
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Palavras\Palavras\obj\Debug\Palavras.csproj.GenerateResource.Cache
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Palavras\Palavras\obj\Debug\Palavras.exe
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Palavras\Palavras\obj\Debug\Palavras.pdb

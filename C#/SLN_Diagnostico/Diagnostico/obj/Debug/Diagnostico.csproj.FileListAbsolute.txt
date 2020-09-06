@@ -1,0 +1,9 @@
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Diagnostico\Diagnostico\bin\Debug\Diagnostico.exe.config
+C:\Users\LABINFO\Documents\Visual Studio 2015\Projects\SLN_Diagnostico\Diagnostico\bin\Debug\Diagnostico.exe
+C:\Users\LABINFO\Documents\Visual Studio 2015\Projects\SLN_Diagnostico\Diagnostico\bin\Debug\Diagnostico.pdb
+C:\Users\LABINFO\Documents\Visual Studio 2015\Projects\SLN_Diagnostico\Diagnostico\obj\Debug\Diagnostico.csprojResolveAssemblyReference.cache
+C:\Users\LABINFO\Documents\Visual Studio 2015\Projects\SLN_Diagnostico\Diagnostico\obj\Debug\Diagnostico.frm_diagnostico.resources
+C:\Users\LABINFO\Documents\Visual Studio 2015\Projects\SLN_Diagnostico\Diagnostico\obj\Debug\Diagnostico.Properties.Resources.resources
+C:\Users\LABINFO\Documents\Visual Studio 2015\Projects\SLN_Diagnostico\Diagnostico\obj\Debug\Diagnostico.csproj.GenerateResource.Cache
+C:\Users\LABINFO\Documents\Visual Studio 2015\Projects\SLN_Diagnostico\Diagnostico\obj\Debug\Diagnostico.exe
+C:\Users\LABINFO\Documents\Visual Studio 2015\Projects\SLN_Diagnostico\Diagnostico\obj\Debug\Diagnostico.pdb

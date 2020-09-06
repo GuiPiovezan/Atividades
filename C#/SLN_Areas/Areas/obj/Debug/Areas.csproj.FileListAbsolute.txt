@@ -1,0 +1,19 @@
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Areas\Areas\bin\Debug\Areas.exe.config
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Areas\Areas\bin\Debug\Areas.exe
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Areas\Areas\bin\Debug\Areas.pdb
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Areas\Areas\obj\Debug\Areas.csprojResolveAssemblyReference.cache
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Areas\Areas\obj\Debug\Areas.frm_areas.resources
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Areas\Areas\obj\Debug\Areas.Properties.Resources.resources
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Areas\Areas\obj\Debug\Areas.csproj.GenerateResource.Cache
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Areas\Areas\obj\Debug\Areas.exe
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Areas\Areas\obj\Debug\Areas.pdb
+C:\Users\Wilson\source\repos\SLN_Areas\Areas\obj\Debug\Areas.csprojAssemblyReference.cache
+C:\Users\Wilson\source\repos\SLN_Areas\Areas\obj\Debug\Areas.frm_areas.resources
+C:\Users\Wilson\source\repos\SLN_Areas\Areas\obj\Debug\Areas.Properties.Resources.resources
+C:\Users\Wilson\source\repos\SLN_Areas\Areas\obj\Debug\Areas.csproj.GenerateResource.cache
+C:\Users\Wilson\source\repos\SLN_Areas\Areas\obj\Debug\Areas.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\source\repos\SLN_Areas\Areas\obj\Debug\Areas.pdb
+C:\Users\Wilson\source\repos\SLN_Areas\Areas\bin\Debug\Areas.exe.config
+C:\Users\Wilson\source\repos\SLN_Areas\Areas\bin\Debug\Areas.exe
+C:\Users\Wilson\source\repos\SLN_Areas\Areas\bin\Debug\Areas.pdb
+C:\Users\Wilson\source\repos\SLN_Areas\Areas\obj\Debug\Areas.exe

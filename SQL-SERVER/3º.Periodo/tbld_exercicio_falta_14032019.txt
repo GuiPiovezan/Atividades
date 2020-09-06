@@ -1,0 +1,11 @@
+Explicar 3 questões das: 
+41. Exiba a quantidade de clientes que cada estado contém, menos os clientes do estado de SP 
+
+42. Selecione os pedidos que têm mais do que 3 produtos na tabela item do pedido. 
+
+43. Liste da tabela item do pedido os produtos que contenha a soma das quantidades maior igual a 50. 
+
+44. Mostre os produtos cuja média do valor unitário agrupados pela unidade seja menor que R$ 1,50.
+
+
+(Escolher 3 e explicar cada função utilizada)

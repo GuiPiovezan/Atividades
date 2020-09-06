@@ -1,0 +1,22 @@
+Explicar 3 questões das: 
+
+42. Selecione os pedidos que têm mais do que 3 produtos na tabela item do pedido. 
+select num_pedido, count(*) from item_do_pedido
+group by num_pedido
+Having Count(*)>3
+Explicação: Através da função 'Having',(semelhante a cláusula WHERE, única diferença é que se aplica somente a grupos) iremos contar e agrupar os pedidos que possuem mais de três produtos e listaremos os mesmos pedidos.
+
+43. Liste da tabela item do pedido os produtos que contenha a soma das quantidades maior igual a 50. 
+select codigo_produto, sum(quantidade) from item_do_pedido
+group by codigo_produto
+Having sum(quantidade) >= 50
+Explicação: Através da função HAVING, iremos somar a quantidade dos itens do pedido, e quando atingir um valor igual ou maior (total da quantidade) que 50, iremos agrupar esses itens, e logo em seguida será listado os itens.
+
+44. Mostre os produtos cuja média do valor unitário agrupados pela unidade seja menor que R$ 1,50.
+select unidade, avg(val_unit) from produto
+group by unidade
+Having avg(val_unit) < 1.50
+Explicação:Iremos mostrar os produtos cujo a cláusula Having ira determinar e agrupar a média dos produtos da qual o valor do produto seja menor que R$1,50.
+
+
+(Escolher 3 e explicar cada função utilizada)

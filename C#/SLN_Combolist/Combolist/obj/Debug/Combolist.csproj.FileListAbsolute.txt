@@ -1,0 +1,9 @@
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Combolist\Combolist\bin\Debug\Combolist.exe.config
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Combolist\Combolist\bin\Debug\Combolist.exe
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Combolist\Combolist\bin\Debug\Combolist.pdb
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Combolist\Combolist\obj\Debug\Combolist.csprojResolveAssemblyReference.cache
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Combolist\Combolist\obj\Debug\Combolist.frm_Combolist.resources
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Combolist\Combolist\obj\Debug\Combolist.Properties.Resources.resources
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Combolist\Combolist\obj\Debug\Combolist.csproj.GenerateResource.Cache
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Combolist\Combolist\obj\Debug\Combolist.exe
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Combolist\Combolist\obj\Debug\Combolist.pdb

@@ -1,0 +1,49 @@
+-- 45) Selecione o nome e a cidade dos clientes que possui o pedido com o prazo de entrega superiores a 25 dias.
+select C.nome_cliente, C.cidade
+from CLIENTE C INNER JOIN PEDIDO P ON C.codigo_cliente = P.codigo_cliente
+WHERE P.prazo_entrega>25;
+
+--46. Apresente a descrição, a unidade e a quantidade dos produtos pedidos que possuem a quantidade maior do que 40. 
+SELECT PROD.descricao_produto, PROD.unidade, ITEM.quantidade
+FROM PRODUTO PROD INNER JOIN item_do_pedido ITEM ON PROD.codigo_produto = ITEM.codigo_produto
+WHERE ITEM.quantidade>40;
+
+--47. Encontre os nomes dos clientes atendidos pelo vendedor João que possui código igual a 101.
+SELECT C.nome_cliente
+FROM CLIENTE C INNER JOIN PEDIDO P ON C.codigo_cliente = P.codigo_cliente INNER JOIN VENDEDOR V ON V.codigo_vendedor = P.codigo_vendedor
+WHERE V.codigo_vendedor=101;
+
+--48. Exiba os nomes dos vendedores que atenderam a Cliente Ana de código 720.
+SELECT V.nome_vendedor
+FROM CLIENTE C INNER JOIN PEDIDO P ON C.codigo_cliente = P.codigo_cliente INNER JOIN VENDEDOR V ON V.codigo_vendedor = P.codigo_vendedor
+WHERE C.codigo_cliente=720;
+
+--49. Liste os clientes e seus respectivos prazos de entrega, ordenados pelo nome do cliente em ordem decrescente. 
+SELECT C.nome_cliente, P.prazo_entrega
+FROM CLIENTE C INNER JOIN PEDIDO P ON C.codigo_cliente=P.codigo_cliente
+ORDER BY C.nome_cliente DESC;
+
+/*50. Mostre os vendedores (ordenados) que emitiram pedidos com prazos de entrega 
+superiores a 15 dias e tenham salários fixos iguais ou superiores a R$ 1.000,00.*/
+
+SELECT V.nome_vendedor
+FROM VENDEDOR V INNER JOIN PEDIDO P ON V.codigo_vendedor = P.codigo_vendedor
+WHERE P.prazo_entrega> 15 AND V.salario_fixo>=1.000
+ORDER BY V.nome_vendedor;
+
+-- 51. Quais clientes tem prazo de entrega superior a 15 dias e pertencem aos estados de São Paulo (SP) ou Rio de Janeiro (RJ))? 
+SELECT * FROM CLIENTE C INNER JOIN PEDIDO P ON C.codigo_cliente = P.codigo_cliente
+WHERE P.prazo_entrega>15 AND C.uf='SP' OR C.uf='RJ';
+
+-- 52. Encontre os nomes dos clientes (ordenados) atendidos pelo vendedor „Antônio?.
+SELECT C.nome_cliente
+FROM CLIENTE C INNER JOIN PEDIDO P ON C.codigo_cliente = P.codigo_cliente INNER JOIN VENDEDOR V ON V.codigo_vendedor = P.codigo_vendedor
+WHERE V.nome_vendedor='ANTÔNIO'
+ORDER BY C.nome_cliente;
+
+/* 53. Mostre os clientes (ordenados) que têm prazo de entrega maior 
+que 15 dias para o produto „Queijo? e sejam do estado de Rio de Janeiro*/
+SELECT *
+FROM CLIENTE C INNER JOIN PEDIDO P ON C.codigo_cliente=P.codigo_cliente INNER JOIN ITEM_DO_PEDIDO ITEM ON ITEM.num_pedido = P.num_pedido INNER JOIN PRODUTO PROD ON PROD.codigo_produto = ITEM.codigo_produto
+WHERE P.prazo_entrega>15 AND PROD.descricao_produto='QUEIJO' AND C.uf='RJ'
+ORDER BY C.nome_cliente

@@ -1,0 +1,19 @@
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Robauto\Robauto\bin\Debug\Robauto.exe.config
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Robauto\Robauto\bin\Debug\Robauto.exe
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Robauto\Robauto\bin\Debug\Robauto.pdb
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Robauto\Robauto\obj\Debug\Robauto.csprojResolveAssemblyReference.cache
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Robauto\Robauto\obj\Debug\Robauto.frm_robauto.resources
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Robauto\Robauto\obj\Debug\Robauto.Properties.Resources.resources
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Robauto\Robauto\obj\Debug\Robauto.csproj.GenerateResource.Cache
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Robauto\Robauto\obj\Debug\Robauto.exe
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Robauto\Robauto\obj\Debug\Robauto.pdb
+C:\Users\Wilson\source\repos\SLN_Robauto\Robauto\bin\Debug\Robauto.exe.config
+C:\Users\Wilson\source\repos\SLN_Robauto\Robauto\bin\Debug\Robauto.exe
+C:\Users\Wilson\source\repos\SLN_Robauto\Robauto\bin\Debug\Robauto.pdb
+C:\Users\Wilson\source\repos\SLN_Robauto\Robauto\obj\Debug\Robauto.csprojAssemblyReference.cache
+C:\Users\Wilson\source\repos\SLN_Robauto\Robauto\obj\Debug\Robauto.frm_robauto.resources
+C:\Users\Wilson\source\repos\SLN_Robauto\Robauto\obj\Debug\Robauto.Properties.Resources.resources
+C:\Users\Wilson\source\repos\SLN_Robauto\Robauto\obj\Debug\Robauto.csproj.GenerateResource.cache
+C:\Users\Wilson\source\repos\SLN_Robauto\Robauto\obj\Debug\Robauto.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\source\repos\SLN_Robauto\Robauto\obj\Debug\Robauto.exe
+C:\Users\Wilson\source\repos\SLN_Robauto\Robauto\obj\Debug\Robauto.pdb

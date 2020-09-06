@@ -1,0 +1,60 @@
+C:\Users\LABINFO\source\repos\SLN_Forca\Forca\bin\Debug\Forca.exe.config
+C:\Users\LABINFO\source\repos\SLN_Forca\Forca\bin\Debug\Forca.exe
+C:\Users\LABINFO\source\repos\SLN_Forca\Forca\bin\Debug\Forca.pdb
+C:\Users\LABINFO\source\repos\SLN_Forca\Forca\obj\Debug\Forca.csprojAssemblyReference.cache
+C:\Users\LABINFO\source\repos\SLN_Forca\Forca\obj\Debug\Forca.frm_forca.resources
+C:\Users\LABINFO\source\repos\SLN_Forca\Forca\obj\Debug\Forca.Properties.Resources.resources
+C:\Users\LABINFO\source\repos\SLN_Forca\Forca\obj\Debug\Forca.csproj.GenerateResource.cache
+C:\Users\LABINFO\source\repos\SLN_Forca\Forca\obj\Debug\Forca.csproj.CoreCompileInputs.cache
+C:\Users\LABINFO\source\repos\SLN_Forca\Forca\obj\Debug\Forca.exe
+C:\Users\LABINFO\source\repos\SLN_Forca\Forca\obj\Debug\Forca.pdb
+E:\UTILIDADES\Curso\SLN_Forca\Forca\obj\Debug\Forca.csprojAssemblyReference.cache
+E:\UTILIDADES\Curso\SLN_Forca\Forca\obj\Debug\Forca.frm_forca.resources
+E:\UTILIDADES\Curso\SLN_Forca\Forca\obj\Debug\Forca.Properties.Resources.resources
+E:\UTILIDADES\Curso\SLN_Forca\Forca\obj\Debug\Forca.csproj.GenerateResource.cache
+E:\UTILIDADES\Curso\SLN_Forca\Forca\obj\Debug\Forca.csproj.CoreCompileInputs.cache
+E:\UTILIDADES\Curso\SLN_Forca\Forca\obj\Debug\Forca.exe
+E:\UTILIDADES\Curso\SLN_Forca\Forca\obj\Debug\Forca.pdb
+E:\UTILIDADES\Curso\SLN_Forca\Forca\bin\Debug\Forca.exe.config
+E:\UTILIDADES\Curso\SLN_Forca\Forca\bin\Debug\Forca.exe
+E:\UTILIDADES\Curso\SLN_Forca\Forca\bin\Debug\Forca.pdb
+E:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\bin\Debug\Forca.exe.config
+E:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\bin\Debug\Forca.exe
+E:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\bin\Debug\Forca.pdb
+E:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.csprojAssemblyReference.cache
+E:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.frm_forca.resources
+E:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.Properties.Resources.resources
+E:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.csproj.GenerateResource.cache
+E:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.csproj.CoreCompileInputs.cache
+E:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.exe
+E:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.pdb
+D:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\bin\Debug\Forca.exe.config
+D:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\bin\Debug\Forca.exe
+D:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\bin\Debug\Forca.pdb
+D:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.csprojAssemblyReference.cache
+D:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.frm_forca.resources
+D:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.Properties.Resources.resources
+D:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.csproj.GenerateResource.cache
+D:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.csproj.CoreCompileInputs.cache
+D:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.exe
+D:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.pdb
+G:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\bin\Debug\Forca.exe.config
+G:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\bin\Debug\Forca.exe
+G:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\bin\Debug\Forca.pdb
+G:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.csprojAssemblyReference.cache
+G:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.frm_forca.resources
+G:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.Properties.Resources.resources
+G:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.csproj.GenerateResource.cache
+G:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.csproj.CoreCompileInputs.cache
+G:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.exe
+G:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.pdb
+J:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\bin\Debug\Forca.exe.config
+J:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\bin\Debug\Forca.exe
+J:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\bin\Debug\Forca.pdb
+J:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.csprojAssemblyReference.cache
+J:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.frm_forca.resources
+J:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.Properties.Resources.resources
+J:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.csproj.GenerateResource.cache
+J:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.csproj.CoreCompileInputs.cache
+J:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.exe
+J:\UTILIDADES\Curso\DS\Nova pasta\SLN_Forca\Forca\obj\Debug\Forca.pdb

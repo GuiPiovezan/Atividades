@@ -1,0 +1,13 @@
+use bdProjeto;
+
+create table tbCarro(
+idCarro int not null primary key auto_increment,
+nome varchar(20) not null,
+placa varchar(8) not null,
+cor varchar(15) not null,
+combustivel varchar(10) not null
+
+
+
+);
+

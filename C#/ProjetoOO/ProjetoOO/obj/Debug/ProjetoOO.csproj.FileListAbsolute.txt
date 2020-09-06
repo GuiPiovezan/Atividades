@@ -1,0 +1,10 @@
+C:\Users\LABINFO\source\repos\ProjetoOO\ProjetoOO\bin\Debug\ProjetoOO.exe.config
+C:\Users\LABINFO\source\repos\ProjetoOO\ProjetoOO\bin\Debug\ProjetoOO.exe
+C:\Users\LABINFO\source\repos\ProjetoOO\ProjetoOO\bin\Debug\ProjetoOO.pdb
+C:\Users\LABINFO\source\repos\ProjetoOO\ProjetoOO\obj\Debug\ProjetoOO.csprojAssemblyReference.cache
+C:\Users\LABINFO\source\repos\ProjetoOO\ProjetoOO\obj\Debug\ProjetoOO.Form1.resources
+C:\Users\LABINFO\source\repos\ProjetoOO\ProjetoOO\obj\Debug\ProjetoOO.Properties.Resources.resources
+C:\Users\LABINFO\source\repos\ProjetoOO\ProjetoOO\obj\Debug\ProjetoOO.csproj.GenerateResource.cache
+C:\Users\LABINFO\source\repos\ProjetoOO\ProjetoOO\obj\Debug\ProjetoOO.csproj.CoreCompileInputs.cache
+C:\Users\LABINFO\source\repos\ProjetoOO\ProjetoOO\obj\Debug\ProjetoOO.exe
+C:\Users\LABINFO\source\repos\ProjetoOO\ProjetoOO\obj\Debug\ProjetoOO.pdb

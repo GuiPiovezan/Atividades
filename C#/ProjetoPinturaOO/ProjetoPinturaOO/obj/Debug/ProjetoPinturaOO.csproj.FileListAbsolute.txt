@@ -1,0 +1,10 @@
+C:\Users\Wilson\source\repos\ProjetoPinturaOO\ProjetoPinturaOO\bin\Debug\ProjetoPinturaOO.exe.config
+C:\Users\Wilson\source\repos\ProjetoPinturaOO\ProjetoPinturaOO\bin\Debug\ProjetoPinturaOO.exe
+C:\Users\Wilson\source\repos\ProjetoPinturaOO\ProjetoPinturaOO\bin\Debug\ProjetoPinturaOO.pdb
+C:\Users\Wilson\source\repos\ProjetoPinturaOO\ProjetoPinturaOO\obj\Debug\ProjetoPinturaOO.csprojAssemblyReference.cache
+C:\Users\Wilson\source\repos\ProjetoPinturaOO\ProjetoPinturaOO\obj\Debug\ProjetoPinturaOO.frm_projeto_pintura.resources
+C:\Users\Wilson\source\repos\ProjetoPinturaOO\ProjetoPinturaOO\obj\Debug\ProjetoPinturaOO.Properties.Resources.resources
+C:\Users\Wilson\source\repos\ProjetoPinturaOO\ProjetoPinturaOO\obj\Debug\ProjetoPinturaOO.csproj.GenerateResource.cache
+C:\Users\Wilson\source\repos\ProjetoPinturaOO\ProjetoPinturaOO\obj\Debug\ProjetoPinturaOO.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\source\repos\ProjetoPinturaOO\ProjetoPinturaOO\obj\Debug\ProjetoPinturaOO.exe
+C:\Users\Wilson\source\repos\ProjetoPinturaOO\ProjetoPinturaOO\obj\Debug\ProjetoPinturaOO.pdb

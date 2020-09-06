@@ -1,0 +1,9 @@
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_MediaNotas\Media_Notas\bin\Debug\Media_Notas.exe.config
+C:\Users\LABINFO\Documents\Visual Studio 2015\Projects\SLN_MediaNotas\Media_Notas\bin\Debug\Media_Notas.exe
+C:\Users\LABINFO\Documents\Visual Studio 2015\Projects\SLN_MediaNotas\Media_Notas\bin\Debug\Media_Notas.pdb
+C:\Users\LABINFO\Documents\Visual Studio 2015\Projects\SLN_MediaNotas\Media_Notas\obj\Debug\Media_Notas.csprojResolveAssemblyReference.cache
+C:\Users\LABINFO\Documents\Visual Studio 2015\Projects\SLN_MediaNotas\Media_Notas\obj\Debug\Media_Notas.frm_media_nota.resources
+C:\Users\LABINFO\Documents\Visual Studio 2015\Projects\SLN_MediaNotas\Media_Notas\obj\Debug\Media_Notas.Properties.Resources.resources
+C:\Users\LABINFO\Documents\Visual Studio 2015\Projects\SLN_MediaNotas\Media_Notas\obj\Debug\Media_Notas.csproj.GenerateResource.Cache
+C:\Users\LABINFO\Documents\Visual Studio 2015\Projects\SLN_MediaNotas\Media_Notas\obj\Debug\Media_Notas.exe
+C:\Users\LABINFO\Documents\Visual Studio 2015\Projects\SLN_MediaNotas\Media_Notas\obj\Debug\Media_Notas.pdb

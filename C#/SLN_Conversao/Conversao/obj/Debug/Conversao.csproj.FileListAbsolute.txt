@@ -1,0 +1,19 @@
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Conversao\Conversao\bin\Debug\Conversao.exe.config
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Conversao\Conversao\bin\Debug\Conversao.exe
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Conversao\Conversao\bin\Debug\Conversao.pdb
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Conversao\Conversao\obj\Debug\Conversao.csprojResolveAssemblyReference.cache
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Conversao\Conversao\obj\Debug\Conversao.frm_conversao.resources
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Conversao\Conversao\obj\Debug\Conversao.Properties.Resources.resources
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Conversao\Conversao\obj\Debug\Conversao.csproj.GenerateResource.Cache
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Conversao\Conversao\obj\Debug\Conversao.exe
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Conversao\Conversao\obj\Debug\Conversao.pdb
+C:\Users\Wilson\source\repos\SLN_Conversao\Conversao\bin\Debug\Conversao.exe.config
+C:\Users\Wilson\source\repos\SLN_Conversao\Conversao\bin\Debug\Conversao.exe
+C:\Users\Wilson\source\repos\SLN_Conversao\Conversao\bin\Debug\Conversao.pdb
+C:\Users\Wilson\source\repos\SLN_Conversao\Conversao\obj\Debug\Conversao.csprojAssemblyReference.cache
+C:\Users\Wilson\source\repos\SLN_Conversao\Conversao\obj\Debug\Conversao.frm_conversao.resources
+C:\Users\Wilson\source\repos\SLN_Conversao\Conversao\obj\Debug\Conversao.Properties.Resources.resources
+C:\Users\Wilson\source\repos\SLN_Conversao\Conversao\obj\Debug\Conversao.csproj.GenerateResource.cache
+C:\Users\Wilson\source\repos\SLN_Conversao\Conversao\obj\Debug\Conversao.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\source\repos\SLN_Conversao\Conversao\obj\Debug\Conversao.exe
+C:\Users\Wilson\source\repos\SLN_Conversao\Conversao\obj\Debug\Conversao.pdb

@@ -1,0 +1,35 @@
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao\ProjetoConexao\bin\Debug\ProjetoConexao.exe.config
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao\ProjetoConexao\bin\Debug\ProjetoConexao.exe
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao\ProjetoConexao\bin\Debug\ProjetoConexao.pdb
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.csprojAssemblyReference.cache
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.Properties.Resources.resources
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.csproj.GenerateResource.cache
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.csproj.CoreCompileInputs.cache
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.exe
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.pdb
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao_Gui\ProjetoConexao\bin\Debug\ProjetoConexao.exe.config
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao_Gui\ProjetoConexao\bin\Debug\ProjetoConexao.exe
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao_Gui\ProjetoConexao\bin\Debug\ProjetoConexao.pdb
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao_Gui\ProjetoConexao\obj\Debug\ProjetoConexao.csprojAssemblyReference.cache
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao_Gui\ProjetoConexao\obj\Debug\ProjetoConexao.frm_aluno.resources
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao_Gui\ProjetoConexao\obj\Debug\ProjetoConexao.Properties.Resources.resources
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao_Gui\ProjetoConexao\obj\Debug\ProjetoConexao.csproj.GenerateResource.cache
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao_Gui\ProjetoConexao\obj\Debug\ProjetoConexao.csproj.CoreCompileInputs.cache
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao_Gui\ProjetoConexao\obj\Debug\ProjetoConexao.exe
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao_Gui\ProjetoConexao\obj\Debug\ProjetoConexao.pdb
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao_Gui\ProjetoConexao\obj\Debug\ProjetoConexao.frm_professor.resources
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.frm_professor.resources
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.frmTelaPrincipal.resources
+C:\Users\LABINFO\source\repos\SLN_ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.frm_aluno.resources
+E:\DS\DS II\BANCO_DADOS\SLN_ProjetoConexao\ProjetoConexao\bin\Debug\ProjetoConexao.exe.config
+E:\DS\DS II\BANCO_DADOS\SLN_ProjetoConexao\ProjetoConexao\bin\Debug\ProjetoConexao.exe
+E:\DS\DS II\BANCO_DADOS\SLN_ProjetoConexao\ProjetoConexao\bin\Debug\ProjetoConexao.pdb
+E:\DS\DS II\BANCO_DADOS\SLN_ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.csprojAssemblyReference.cache
+E:\DS\DS II\BANCO_DADOS\SLN_ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.frm_aluno.resources
+E:\DS\DS II\BANCO_DADOS\SLN_ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.frmTelaPrincipal.resources
+E:\DS\DS II\BANCO_DADOS\SLN_ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.frm_professor.resources
+E:\DS\DS II\BANCO_DADOS\SLN_ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.Properties.Resources.resources
+E:\DS\DS II\BANCO_DADOS\SLN_ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.csproj.GenerateResource.cache
+E:\DS\DS II\BANCO_DADOS\SLN_ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.csproj.CoreCompileInputs.cache
+E:\DS\DS II\BANCO_DADOS\SLN_ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.exe
+E:\DS\DS II\BANCO_DADOS\SLN_ProjetoConexao\ProjetoConexao\obj\Debug\ProjetoConexao.pdb

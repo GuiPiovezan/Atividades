@@ -1,0 +1,19 @@
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojResolveAssemblyReference.cache
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Pizzaria\Pizzaria\obj\Debug\Pizzaria.frm_pizzaria.resources
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.Cache
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+c:\users\labinfo\documents\visual studio 2015\Projects\SLN_Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+C:\Users\Wilson\source\repos\SLN_Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+C:\Users\Wilson\source\repos\SLN_Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+C:\Users\Wilson\source\repos\SLN_Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+C:\Users\Wilson\source\repos\SLN_Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojAssemblyReference.cache
+C:\Users\Wilson\source\repos\SLN_Pizzaria\Pizzaria\obj\Debug\Pizzaria.frm_pizzaria.resources
+C:\Users\Wilson\source\repos\SLN_Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+C:\Users\Wilson\source\repos\SLN_Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.cache
+C:\Users\Wilson\source\repos\SLN_Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\source\repos\SLN_Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+C:\Users\Wilson\source\repos\SLN_Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
